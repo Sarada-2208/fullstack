@@ -11,7 +11,7 @@ pipeline {
         TOMCAT_USER = 'admin'
         TOMCAT_PASS = 'admin'
 
-        MAIN_REPO = 'git remote add origin https://github.com/Sarada-2208/fullstack.git'
+        MAIN_REPO = 'https://github.com/Sarada-2208/fullstack.git'
 
         BACKEND_DIR = 'crud_back'
         FRONTEND_DIR = 'crud_front'
